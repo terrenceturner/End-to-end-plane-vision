@@ -7,5 +7,5 @@ The image dataset will be from Kaggle. The data contains two classes, plane or n
 Dataset: https://www.kaggle.com/rhammell/planesnet
 
 1. [Final Project](https://github.com/terrenceturner/End-to-end-plane-vision/blob/master/Plane_Vision.ipynb)
-2. Final Report
+2. [Final Report](https://docs.google.com/document/d/1Fo4gfyvvDrDBdnnvtWMXaMHhGg1gWvexy9pz5ErFfEM/edit?usp=sharing)
 3. Blog
