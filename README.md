@@ -8,5 +8,5 @@ Dataset: https://www.kaggle.com/rhammell/planesnet
 
 1. [Final Project](https://github.com/terrenceturner/End-to-end-plane-vision/blob/master/Plane_Vision.ipynb)
 2. [Final Report](https://github.com/terrenceturner/End-to-end-plane-vision/blob/master/Capstone%20Project%202%20Report.pdf)
-3. Powerpoint
+3. [Powerpoint](https://github.com/terrenceturner/End-to-end-plane-vision/blob/master/Capstone2SlideDeck.pptx)
 4. Blog
